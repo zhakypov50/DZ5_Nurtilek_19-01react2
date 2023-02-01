@@ -1,0 +1,5 @@
+export const types = {
+    ADD_BUTTON: 'ADD_BUTTON',
+    CHANGE_NUMBER: 'CHANGE_NUMBER',
+    CLEAR_BUTTON: 'CLEAR_BUTTON'
+}
